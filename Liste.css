@@ -1,0 +1,44 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 552px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 315px;
+  grid-template-rows: auto;
+  margin: 16px auto 60px 16px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 100%;
+  min-height: 277px;
+  grid-gap: 0px 0px;
+  grid-auto-columns: 100%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 94px;
+  height: 94px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 228px;
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  border-style: none none solid;
+  text-transform: uppercase;
+  margin: 16px auto 0;
+  padding: 2px 0;
+}
