@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html style="font-size: 16px;">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
@@ -12,11 +11,8 @@
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.25.0, nicepage.com">
-<<<<<<< HEAD
     <link rel="icon" href="images/favicon.jpg">
-=======
     <link rel="icon" href="favicon.png">
->>>>>>> 979ad63 (Version 2.0.0)
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <meta name="theme-color" content="#478ac9">
     <meta property="og:title" content="Accueil">
@@ -52,11 +48,8 @@
           </div>
         </nav>
         <h3 class="u-headline u-text u-text-1">
-<<<<<<< HEAD
           <a href="/">Goalie Stats</a>
-=======
           <img class="favicone" src="favicon.png">
->>>>>>> 979ad63 (Version 2.0.0)
         </h3>
       </div></header>
     <section class="u-clearfix u-section-1" id="sec-cbf0">
